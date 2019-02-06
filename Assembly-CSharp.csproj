@@ -58,7 +58,9 @@
      <None Include="Assets\Sistema Solar\Shaders\ItemGlow.shader" />
      <None Include="Assets\Sistema Solar\Shaders\Planet.shader" />
      <None Include="Assets\Sistema Solar\Shaders\CloudsShader.shader" />
+     <None Include="Assets\CuboShaders\Assets\Shaders\Lambert.shader" />
      <None Include="Assets\Sistema Solar\Shaders\illum.shader" />
+     <None Include="Assets\CuboShaders\Assets\Shaders\RimSpec.shader" />
      <None Include="Assets\Sistema Solar\Shaders\PlanetShader2.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/ar_me/Documents/Sistema Solar/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
